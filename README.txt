@@ -9,5 +9,5 @@ Game Development and Design Club. The officers responsible
 for the creation of the project are:
 Jenny Yao
 Amanda Pokorney
-Susan "Michelle" Myles
+Michelle Myles
 Bryce Collins
