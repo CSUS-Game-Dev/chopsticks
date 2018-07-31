@@ -1,13 +1,13 @@
+var player = require('./player.js');
 
-module.exports = function(router){
+function GAME(){
+    var self = this;
 
-    router.get('/check', function(req, res){
-        res.send("You checked the number of active games!");
-    });
+    var player1 = new player();
+    var player2 = new player();
 
-    router.post('/check', function(req, res){
-        res.send("You checked the number of active games!");
-    });
-
-    return router;
 }
+
+//Gamepad.prototype.
+
+module.exports = GAME;
